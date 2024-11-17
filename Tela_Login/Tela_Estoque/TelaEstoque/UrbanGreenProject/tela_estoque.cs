@@ -529,12 +529,7 @@ namespace UrbanGreenProject
             telaCultivo.Show();
         }
 
-        private void btn_estoque_Click(object sender, EventArgs e)
-        {
-            telaSaude telassaude = new telaSaude();
-            this.Hide();
-            telassaude.Show();
-        }
+       
 
        
     }
